@@ -14,6 +14,6 @@
 **Laura Monzo**
 
 Little Point:
-We implemented a nice visualization to get the input from the users, nevertheless if the libraries **ipywidgets** and **plotly** are not installed you cannot see them.
+We implemented a nice visualization to get the input from the users, nevertheless if the libraries **ipywidgets** and **plotly** are not installed you cannot see it.
 Therefore we made a simple screen that represents how it would look like.
 If you don't want to download it, just give a value to the variables.

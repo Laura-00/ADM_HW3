@@ -973,7 +973,7 @@ def static_serie_plot(df_serie):
 
     fig, ax =plt.subplots(1,figsize = fig_dims)
     sns.lineplot(data=df_serie, x="Year", y="Sum of Pages", hue="Serie",marker = 'o',markers = True ,palette = 'Paired')
-    plt.legend(fontsize='40', title_fontsize='40')
+    plt.legend(fontsize='30', title_fontsize='40')
 
     fig.show()
 ############[ALGORITHMS]########################
